@@ -12,6 +12,7 @@ Clone  https://github.com/pabloandresgonzalez/example-app.git
 ## En su servidor instale composer 
 composer install
 ##crear la base de datos en su en su motor de DB
+crea la base de datos con el nombre example_app
 ## Envié las migraciones 
 php artisan migrate
 ## Inicie el servidor
