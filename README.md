@@ -16,7 +16,7 @@ CREATE DATABASE example_app;
 ## Envié las migraciones 
 php artisan migrate
 ## Inicie el servidor
-Php artisan serve
+php artisan serve
 
 ## License
 MIT
